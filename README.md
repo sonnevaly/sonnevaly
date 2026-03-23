@@ -1,4 +1,4 @@
-f# 💫 About Me:
+💫 About Me:
 🔭 I'm currently working on — Codify, my capstone project<br>👯 I'm looking to collaborate on — Frontend web projects using React & TypeScript, or Flutter mobile apps<br>🤝 I'm looking for help with — Backend development and fullstack architecture<br>🌱 I'm currently learning — NestJS, PostgreSQL, and deepening my TypeScript skills<br>💬 Ask me about — React, TypeScript, Flutter, or anything frontend
 
 
